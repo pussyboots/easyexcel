@@ -27,3 +27,15 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+
+#eclipse ignore
+.settings/
+.project
+.classpatch
+
+*.class
+
+#package file
+*.war
+*.ear
