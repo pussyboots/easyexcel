@@ -39,3 +39,5 @@ HELP.md
 #package file
 *.war
 *.ear
+/mvnw
+/mvnw.cmd
